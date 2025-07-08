@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60179778938",
+    "project_id": "stockprice-24bf2",
+    "storage_bucket": "stockprice-24bf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60179778938:android:2459cca6e5404e021edac3",
+        "android_client_info": {
+          "package_name": "com.shaikhaklakh.stockprice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6PbmTfCfCJzi1BuIr0cYk-ZOiM9RbO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

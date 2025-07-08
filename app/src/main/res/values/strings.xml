@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StockPrice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">60179778938-khmn14d471tc7o0lo1eu5fd1cbmf2dh3.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/shop"
+        android:id="@+id/trendingStockFragment"/>
+
+    <item android:title="Prediction"
+        android:icon="@drawable/trade"
+        android:id="@+id/pricePredictFragment"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/usericon"
+        android:id="@+id/profileFragment"/>
+
+</menu>
